@@ -1,4 +1,4 @@
-# Exercise 3: Tri-Model AI Assistant
+Tri-Model AI Assistant
 
 This exercise builds a local AI assistant that uses three specialized Hugging Face models orchestrated with LangGraph.
 
