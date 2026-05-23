@@ -118,7 +118,7 @@ exercise3/
 From the repo root:
 
 ```bash
-cd exercise3
+cd tri-model-ai
 python -m pip install -r requirements.txt
 ```
 
